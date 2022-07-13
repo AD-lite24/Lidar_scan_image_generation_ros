@@ -1,0 +1,2 @@
+beginner_tutorial:lidar_ros_task
+-DCATKIN_DEVEL_PREFIX=/home/aditya/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/aditya/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,4 @@
+int64 centerX
+int64 centerY
+---
+int64[720] lidar_array
